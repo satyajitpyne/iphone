@@ -1,0 +1,111 @@
+@font-face {
+    font-family: blaa;
+    src: url(iph.woff2);
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body {
+    height: 100%;
+    width: 100%;
+}
+.joh {
+    height: 100px;
+    width: 100%;
+    background-color: #FAFAFC;
+    display: flex;
+    gap: 70px;
+    color: black;
+    align-items: center ;
+    justify-content: center;
+    
+
+
+}
+.fon{
+    height: 75px;
+    width: 100%;
+    background-color: white;
+}
+p{
+    text-align: center;
+}
+.mec {
+    height: 800px;
+    width: 100%;
+    background-image: url(https://www.apple.com/in/iphone-17-pro/images/overview/highlights/highlights_design_endframe__flnga0hibmeu_large.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.mac h1 {
+    font-size: 50px;
+    color: white;
+}
+.old {
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+}
+.new {
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    font-family: blaa;
+}
+p button{
+    background-color: royalblue;
+    color: white;
+    padding: 13px 20px;
+    border-radius: 30px;
+    border: none;
+    
+    
+
+}
+.class{
+    width: 100%;
+    height: 250px;
+    background-color: #FAFAFC;
+    display: flex;
+    
+    
+
+}
+.class p {
+    text-align: left;
+}
+.chor{
+    width: 100%;
+    height: 25px;
+}
+.table1 {
+    width: 20%;
+    height: 200px;
+    
+    
+    text-align: left;
+    padding-left: 10px;
+}
+
+
+.table2 {
+    width: 20%;
+    height: 200px;
+    padding: ;
+}
+.table3 {
+    width: 20%;
+    height: 200px;
+}
+.table4 {
+    width: 20%;
+    height: 200px;
+}
+.table5 {
+    width: 20%;
+    height: 200px;
+}
